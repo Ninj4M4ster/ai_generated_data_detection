@@ -2,7 +2,16 @@
 This file aims to document all decision-making processes that included AI tools during this project.
 
 ## Base
-Following prompt has been used to find a dataset for the project.
+Finding a dataset for the project (*ChatGPT*):
 ```
 Are there any datasets that would be good to examine the accuracy of ai-generated content detection tools?
+```
+\
+Picking models from Hugging Face to test them, getting code for using model (*ChatGPT*):
+```
+What models from Hugging Face can I use to test their ability to detect if a text is AI generated? Give me python code that will load those models and show me how to use them with my input text.
+```
+following output of that prompt, I wanted more diversity in the used models (*ChatGPT*):
+```
+I don't want to use two roberta models, let's keep roberta-base-openai-detector and chose a different as the second one.
 ```

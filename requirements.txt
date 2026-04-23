@@ -7,3 +7,6 @@ jupyter
 scikit-learn
 pandas
 scikit-image
+transformers
+datasets
+scikit-learn
