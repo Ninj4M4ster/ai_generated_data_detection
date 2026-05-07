@@ -38,3 +38,8 @@ Attempt at generating texts in certain style (*ChatGPT*).
 ```
 Generate 10 texts with about 600 characters each. Make the texts look like a 1st year student wrote them, use simple language, no sophisticated words.
 ```
+
+#### Generation of script for creating a table with summary of all results (*Copilot*):
+```
+Generate a script that will create a table with summary of all results, including the name of the model, precision, recall and f1 score.
+```
